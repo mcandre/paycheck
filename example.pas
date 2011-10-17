@@ -8,5 +8,8 @@ begin
 	write('Random boolean: ');
 	writeln(GenBool());
 
+	write('Random character: ');
+	writeln(GenChar());
+
 	{ ... }
 end.
