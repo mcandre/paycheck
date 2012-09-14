@@ -1,6 +1,6 @@
-paycheck - a Free Pascal port of the QuickCheck unit test framework
+# paycheck - a Free Pascal port of the QuickCheck unit test framework
 
-EXAMPLE
+## EXAMPLE
 
 	$ make
 	$ ./example

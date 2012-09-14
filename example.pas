@@ -7,9 +7,12 @@ begin
 
 	write('Random boolean: ');
 	writeln(GenBool());
-
+	
 	write('Random character: ');
 	writeln(GenChar());
+	
+	write('Random string: ');
+	writeln(GenString());
 
 	{ ... }
 end.
