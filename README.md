@@ -6,5 +6,7 @@
 
 # EXAMPLE
 
-	$ make
-	$ ./example
+```console
+$ make
+$ ./example
+```
